@@ -1,0 +1,1 @@
+# Sinhala-Katalon-Automation
